@@ -7,6 +7,7 @@ public class MyfirstCls {
 		System.out.println("Hello");
 		System.out.println("New sop");
 		//comment line
+		System.out.println("Hi");
 	}
 
 }
