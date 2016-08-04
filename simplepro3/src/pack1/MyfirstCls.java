@@ -11,6 +11,7 @@ public class MyfirstCls {
 		
 	
 		System.out.println("Bishnu");
+		System.out.println("Bishnu");
 	}
 
 }
