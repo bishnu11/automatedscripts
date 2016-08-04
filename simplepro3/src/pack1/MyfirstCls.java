@@ -9,6 +9,7 @@ public class MyfirstCls {
 		//comment line
 		System.out.println("Hi");
 		//comment line
+		System.out.println("Hey");
 	}
 
 }
