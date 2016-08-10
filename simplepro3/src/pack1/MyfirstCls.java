@@ -20,7 +20,7 @@ public class MyfirstCls {
 		//Hi all, check whether am i pull or not?
 		//my comment line
 		System.out.println("New Update");
-		//Did you fix the issue ?
+		//Did you fix the issue.....
 		
 	}
 
