@@ -17,10 +17,10 @@ public class MyfirstCls {
 				+ "");
 		
 
-		System.out.println("New Update.....");
+		/*System.out.println("New Update.....");
 		System.out.println("New Update.....");
 
-		System.out.println("New Update");
+		System.out.println("New Update");*/
 	
 
 		
