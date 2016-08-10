@@ -15,6 +15,7 @@ public class MyfirstCls {
 		System.out.println("Sumit"
 				+ "");
 		// How are you
+		//hi,good morning
 		
 	}
 
